@@ -2,7 +2,7 @@
 
 A lightweight yet powerful Gradio-based web interface for the Piper TTS engine. This application allows you to easily synthesize speech from text using high-quality local voices, with advanced controls for fine-tuning the output. It's designed to be simple, 100% local, and private.
 
-![Application Screenshot](./assets/screenshot.png)
+![Application Screenshot](screenshot.png)
 
 
 ## Features
