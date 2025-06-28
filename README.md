@@ -72,7 +72,7 @@ Once the setup is complete, running the application is simple.
     1. Make sure you are in the main project directory and your virtual environment is activated (you should see (venv) at the beginning of your terminal prompt).
     2. Run the main application script:
        Bash
-       python3 piper_app.py
+       python3 main.py
        
     3. The application will start and provide a local URL, typically: Running on local URL: http://127.0.0.1:7860
     4. Open this URL in your web browser to start using the GUI.
@@ -93,7 +93,7 @@ YOUR_REPOSITORY_NAME/
 │   └── ... (virtual environment files)
 │
 ├── .gitignore   (recommended)
-├── piper_app.py
+├── main.py
 └── README.md
 
 Credits
